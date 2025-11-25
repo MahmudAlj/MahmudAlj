@@ -82,13 +82,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mahmudalj&show_icons=true&theme=transparent&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudalj&show_icons=true&theme=transparent&cache_seconds=7200" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahmudalj&layout=compact&theme=transparent&cache_seconds=86400" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudalj&layout=compact&theme=transparent&cache_seconds=7200" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudalj&theme=transparent" alt="GitHub Streak" />
 </p>
+
